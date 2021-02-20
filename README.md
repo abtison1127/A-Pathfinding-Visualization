@@ -10,7 +10,7 @@ The first mouse click on any square of the grid will become the START position (
 The second mouse click on any other square on the grid will become the END position (BLUE).
 
 Any other mouse click on any other square on the grid will become a BLOCK for the pathfinder (BLACK).
-- Drag mouse click to create consecutive blocks
+- Drag mouse click to draw consecutive blocks
 
 After setting blocks, press the SPACEBAR to run and watch the A-Star Pathfinding Algorithm in real time.
 
