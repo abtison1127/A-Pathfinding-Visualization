@@ -1,4 +1,4 @@
-# A-Star-Pathfinding-Visualization
+# A-Star-Pathfinding-Visualizer
 A program that visualizes the A-Star Algorithm using Pygame in Python3 as it runs. The A-Star Pathfinding Algorithm finds the shortest distance between given points by visiting the nearest vertices to its starting position recursively then expanding outwards until it reaches its given end point.
 
 # INSTRUCTIONS
